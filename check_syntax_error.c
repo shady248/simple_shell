@@ -175,3 +175,4 @@ int check_syntax_error(data_shell *datash, char *input)
 
 	return (0);
 }
+

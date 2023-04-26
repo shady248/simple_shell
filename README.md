@@ -1,4 +1,4 @@
-[!MasterHead](https://nanodegree.alxafrica.com/wp-content/uploads/2022/03/alx-logo.png)
+![MasterHead](https://nanodegree.alxafrica.com/wp-content/uploads/2022/03/alx-logo.png)
 
 #  C - Simple Shell Project
 

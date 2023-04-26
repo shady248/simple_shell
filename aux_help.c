@@ -9,7 +9,7 @@ void aux_help_env(void)
 {
 	char *help = "env: env [option] [name = value] [command [args]]\n\t";
 
-	write(STDOUT_FILNO, help, _strlen(help));
+	write(STDOUT_FILENO, help, _strlen(help));
 	help = "Print the environment of the shell.\n";
 	write(STDOUT_FILENO, help, _strlen(help));
 }

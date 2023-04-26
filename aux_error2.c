@@ -38,12 +38,12 @@ char *error_env(data_shell *datash)
 }
 
 /**
- * error_path_128 - error msg for path & denied premissions
+ * error_path_126 - error msg for path & denied premissions
  * @datash: data relevant
  *
  * Return: the error
  */
-char *error_path_128(data_shell *datash)
+char *error_path_126(data_shell *datash)
 {
 	int length;
 	char *ver_str;

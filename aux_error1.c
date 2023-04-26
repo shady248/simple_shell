@@ -52,7 +52,7 @@ char *error_get_cd(data_shell *datash)
 	char *error, *ver_str, *msg;
 
 	ver_str = aux_itoa(datash->counter);
-	if (datash->argas[1][0] == '_')
+	if (datash->args[1][0] == '_')
 	{
 		msg = ": Illegal option ";
 		len_id = 2;
